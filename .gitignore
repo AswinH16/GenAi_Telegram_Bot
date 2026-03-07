@@ -1,0 +1,5 @@
+__pycache__/
+telegram_bot/
+.env
+*.pyc
+mini_rag.db
